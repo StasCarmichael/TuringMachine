@@ -2,9 +2,10 @@ C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\bin\Releas
 C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\bin\Release\TuringMachineWinForms.exe
 C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\bin\Release\TuringMachineWinForms.pdb
 C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.csprojAssemblyReference.cache
-C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.Form1.resources
 C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.Properties.Resources.resources
 C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.csproj.GenerateResource.cache
 C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.csproj.CoreCompileInputs.cache
 C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.exe
 C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.pdb
+C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.bootForm.resources
+C:\Users\stask\source\С#\TuringMachineWinForms\TuringMachineWinForms\obj\Release\TuringMachineWinForms.mainForm.resources
